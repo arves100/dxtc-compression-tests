@@ -1,0 +1,7 @@
+  This source code and all documents provided with it are
+  provided as is, with NO warranty and no guarantees. If it
+  does any damage, the responsibility is yours. There are
+  no restrictions on what you may do with this code; but
+  the moment you modify it I become completely
+  disaffiliated with this program.
+  
