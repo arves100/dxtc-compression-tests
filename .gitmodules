@@ -1,0 +1,3 @@
+[submodule "libsquish"]
+	path = libsquish
+	url = https://github.com/arves100/libsquish
